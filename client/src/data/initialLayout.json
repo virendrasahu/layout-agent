@@ -1,0 +1,83 @@
+[
+  {
+    "id": "Artboard1",
+    "type": "artboard",
+    "name": "Canvas",
+    "x": 0,
+    "y": 0,
+    "width": 1080,
+    "height": 1080,
+    "style": { "backgroundColor": "#ffffff" }
+  },
+  {
+    "id": "Background.png",
+    "type": "image",
+    "name": "Background.png",
+    "x": 0,
+    "y": 0,
+    "width": 1080,
+    "height": 1080,
+    "nx": 0,
+    "ny": 0,
+    "nw": 1,
+    "nh": 1,
+    "data": "https://images.unsplash.com/photo-1557683316-973673baf926?w=1080&h=1080&fit=crop",
+    "style": {}
+  },
+  {
+    "id": "Product.png",
+    "type": "image",
+    "name": "Product.png",
+    "x": 240,
+    "y": 240,
+    "width": 600,
+    "height": 600,
+    "nx": 0.2222,
+    "ny": 0.2222,
+    "nw": 0.5556,
+    "nh": 0.5556,
+    "data": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=600&fit=crop",
+    "style": {}
+  },
+  {
+    "id": "Headline",
+    "type": "text",
+    "name": "Luxury Comfort, Surprisingly Attainable",
+    "x": 140,
+    "y": 100,
+    "width": 800,
+    "height": 120,
+    "nx": 0.1296,
+    "ny": 0.0926,
+    "nw": 0.7407,
+    "nh": 0.1111,
+    "data": "Luxury Comfort, Surprisingly Attainable",
+    "style": {
+      "color": "#000000",
+      "fontSize": 48,
+      "fontWeight": "bold",
+      "textAlign": "center"
+    }
+  },
+  {
+    "id": "DiscountBadge",
+    "type": "shape",
+    "name": "20% OFF",
+    "x": 750,
+    "y": 750,
+    "width": 200,
+    "height": 200,
+    "nx": 0.6944,
+    "ny": 0.6944,
+    "nw": 0.1852,
+    "nh": 0.1852,
+    "data": "20% OFF",
+    "style": {
+      "backgroundColor": "#ef4444",
+      "color": "#ffffff",
+      "fontSize": 32,
+      "fontWeight": "bold",
+      "borderRadius": "50%"
+    }
+  }
+]
