@@ -31,7 +31,7 @@ export default function ChatWindow({ layout, setLayout }) {
       // Keep only last 6 messages for context to save tokens and prevent overload
       const history = newMessages.slice(-6);
 
-      const response = await axios.post('http://localhost:3001/api/chat', {
+      const response = await axios.post('https://layout-agent-xvjj.onrender.com/api/chat', {
         message: userMessage,
         layout: layout,
         history: history
